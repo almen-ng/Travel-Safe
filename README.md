@@ -3,6 +3,12 @@
 ## Scope 
 Travel Safe aims to help with travel decisions with the aid of weather predicting software application. The objective is to use a detailed database to draw relations between the input statistics that will deliver a system to assist the user with choosing their future travel location. The system will offer a user-friendly Android based application that allows users to search a specific location's weather status. The application will provide information regarding the occurrence probability of extreme and unwanted weather conditions. The product’s main goal is providing the user with beforehand information to aid in the traveling decisions that are affected by unsettling weather changes.
 
+## Algorithms Used
+<ul>
+ <li> Merge sort was used to stort the hazards by month so that the search data can be used for binary search to find the specific hazards occuring at a month </li>
+ <li> Dijkstra's algorithm was used to find the shortest path between states using the frequency of hazards within a specified state and month as weights. </li>
+</ul>
+
 ## Installation and Configuration of Application
 In order to run this application, an IDE for Android development should be installed. It is recommended to use Android Studio. The guide will be based on Android Studio.
 <ol>
@@ -29,9 +35,3 @@ notify you whether connection is successful or not. The main page consists of a 
 buttons that allows the user to search by time and location, find the best time for travelling to a particular
 location, and find the safest path. It is up to the user to decide which one they want to prioritize and they
 can simply tap it to start the search. Once the required information is entered, one of the options will be displayed: a map with icons indicating the type of disaster that have happened in the state at that time, a ranking of the Top 3 times to travel based on the location, or a map showing the safest path to travel. The user can take the results as a guideline to choose the routes for their trip
-
-## Algorithms Used
-<ul>
- <li> Merge sort was used to stort the hazards by month so that the search data can be used for binary search to find the specific hazards occuring at a month </li>
- <li> Dijkstra's algorithm was used to find the shortest path between states using the frequency of hazards within a specified state and month as weights. </li>
-</ul>
