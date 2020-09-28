@@ -1,6 +1,6 @@
 # Travel-Safe
 
-## Scope 
+## Purpose
 Travel Safe aims to help with travel decisions with the aid of weather predicting software application. The objective is to use a detailed database to draw relations between the input statistics that will deliver a system to assist the user with choosing their future travel location. The system will offer a user-friendly Android based application that allows users to search a specific location's weather status. The application will provide information regarding the occurrence probability of extreme and unwanted weather conditions. The product’s main goal is providing the user with beforehand information to aid in the traveling decisions that are affected by unsettling weather changes.
 
 ## Algorithms Used
