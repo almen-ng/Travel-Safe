@@ -20,6 +20,14 @@ In order to run this application, an IDE for Android development should be insta
  <li>An installation page will appear on the device. Follow the guidelines to finish the installation.</li>
 </ol>
 ## How To Use the Application
+The application is now ready after you finish the installation process. Make sure you are connected to the
+Internet and you are in a region where Google Play services are available before running the app.
+
+Once it is all set up, the app will direct you into the main page of Travel Safe and a pop up message will
+notify you whether connection is successful or not. The main page consists of a title and three search
+buttons that allows the user to search by time and location, find the best time for travelling to a particular
+location, and find the safest path. It is up to the user to decide which one they want to prioritize and they
+can simply tap it to start the search. Once the required information is entered, one of the options will be displayed: a map with icons indicating the type of disaster that have happened in the state at that time, a ranking of the Top 3 times to travel based on the location, or a map showing the safest path to travel. The user can take the results as a guideline to choose the routes for their trip
 
 ## Algorithms Used
 <ul>
