@@ -19,6 +19,7 @@ In order to run this application, an IDE for Android development should be insta
  <li>Once the device is discovered by Android Studio, click the "Run" button on the top left of the task bar, ensuring that you are choosing the correct device when running</li>
  <li>An installation page will appear on the device. Follow the guidelines to finish the installation.</li>
 </ol>
+
 ## How To Use the Application
 The application is now ready after you finish the installation process. Make sure you are connected to the
 Internet and you are in a region where Google Play services are available before running the app.
